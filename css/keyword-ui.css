@@ -1,0 +1,48 @@
+.kwac-imgbox, .kwac-input {
+    /*font: inherit !important;*/
+    color: inherit !important;
+    text-align: left !important;
+    outline: none !important;
+    margin: 0;
+}
+
+.kwac-imgbox {
+    height: 32px;
+    width: 32px;
+    padding: 3px;
+    display: inline-block;
+    vertical-align: top;
+}
+.kwac-imgbox span.ui-button-text {
+    height: 32px;
+    width: 32px;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+.kwac img, .kwac-ac img {
+    height: 32px;
+    width: 32px;
+}
+
+.kwac-input {
+	font-size: 18px;
+    padding: 7px 10px 9px !important;
+    cursor: text;
+}
+.kwac-ac .ui-menu-item a {
+	cursor: pointer !important;
+}
+.kwac-ac .kwac-ac-label {
+	font-size: 16px;
+	padding: 6px 8px 8px;
+	display: inline-block;
+}
+.kwac-ac .kwac-ac-img {
+	height: 32px;
+	width: 32px;
+	padding: 3px 6px 3px 0;
+	border-right: 1px solid #bbb;
+	display: inline-block;
+	vertical-align: middle;
+}
